@@ -169,3 +169,8 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+# custom
+*.log
+Temp/
+config_private.yaml
